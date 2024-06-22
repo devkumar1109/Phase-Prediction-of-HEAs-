@@ -10,7 +10,7 @@ The primary goal of this project is to develop a predictive model that can accur
 2. **Dimensionality Reduction**: Reducing the feature space using Principal Component Analysis (PCA) to simplify the dataset while retaining essential information.
 3. **Model Training**: Applying different machine learning models such as Logistic Regression, Decision Trees, Random Forest, and XGBoost to predict the phases of HEAs.
 4. **Model Evaluation**: Evaluating the performance of the models using accuracy scores and generating classification reports to understand the precision, recall, F1-score, and support for each class.
-5. **Hyperparameter Tuning**: Optimizing the parameters of the machine learning models to improve their accuracy and performance.
+5. **Hyperparameter Tuning**: Optimizing the parameters of the machine learning models using Grid Search CV to improve their accuracy and performance.
 
 ## Key Metrics
 
